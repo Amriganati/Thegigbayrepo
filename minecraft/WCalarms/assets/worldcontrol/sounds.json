@@ -1,0 +1,4 @@
+{
+'alarm-tom-nook-shop': {'category': 'master','sounds': [{'name': 'worldcontrol:alarm-tom-nook-shop','stream': true}]},
+'alarm-hl-alarm-1': {'category': 'master','sounds': [{'name': 'worldcontrol:alarm-hl-1','stream': true}]}
+}
